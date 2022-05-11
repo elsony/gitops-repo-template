@@ -38,11 +38,11 @@ Here is the hierarchy of resources within the repository:
     │       ├── route-sample-workload.yaml
     │       └── service-sample-workload.yaml
     └── componentB
-    │    └── base
-    │       ├── deployment-sample-workload.yaml
-    │       ├── kustomization.yaml
-    │       ├── route-sample-workload.yaml
-    │       └── service-sample-workload.yaml
+         └── base
+            ├── deployment-sample-workload.yaml
+            ├── kustomization.yaml
+            ├── route-sample-workload.yaml
+            └── service-sample-workload.yaml
 ```
 
 
