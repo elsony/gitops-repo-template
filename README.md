@@ -12,7 +12,6 @@ There are two types of resources defined in this repository:
 - **Components**: 
     - A component contains one or more Kubernetes resources (Deployments/ConfigMaps/etc), representing a component of an application to deploy.
     - For example, the 'frontend' and 'backend' of a single application (both would be components, here)
-    - Component resources may be customized (by kustomize) based on the environment they are targeting, for example, different environment variables in staging/production containing different database service credentials.
 
 ## Primary Kustomize Entrypoints
 
